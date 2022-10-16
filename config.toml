@@ -40,7 +40,7 @@ hasCJKLanguage = false
 
         # top image in home page, note that the "/" in path is necessary, the same applies below
         # 主页的顶部图，路径开头”/“是必需的。下同
-        homeTopImg = "/Spinnen-28.jpg"
+        homeTopImg = "/images/Spinnen-28.jpg"
         # title in home top image, support Markdown
         # 主页标题，支持Markdown语法
         homeTitle = "Esther"
