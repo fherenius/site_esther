@@ -6,4 +6,5 @@ draft: false
 
 ![Look at these shrooms!](/images/test_shrooms.jpeg "I just want to take a bite.")
 
+Some text maybe.
 
