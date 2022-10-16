@@ -5,13 +5,13 @@ draft: false
 ---
 # Mushrooms hail the coming of the fall.
 
-The trees shed their leaves in preparation for winter. These beautiful structures come out to clean up what remains of the dead wood and leaves. A perfect time for a little nature walk. Luckily, there's a woods right outside of Stuttgart Campus.
+The trees shed their leaves in preparation for winter. These beautiful structures come out to clean up what remains of the dead wood and leaves, and bring a food source to animals. A perfect time for a little nature walk. Luckily, there's a woods right outside of Stuttgart Campus.
 
 ![Look at this little fellow!](/images/Mushies-5.jpg "He's so ready to go")
 ![The lighting makes them so mysterious](/images/Mushies-7.jpg)
 ![They remind me of the ballet](/images/Mushies-8.jpg)
-![These buddies look like bread](/images/Mushies-15.jpg)"I just want to take a bite"
-![Like they're from another world](/images/Mushies-19.jpg)"Slimy, yet satisfying"
+![These buddies look like bread](/images/Mushies-15.jpg "I just want to take a bite")
+![Like they're from another world](/images/Mushies-19.jpg "Slimy, yet satisfying")
 ![Another slimy example](/images/Mushies-28.jpg)
 ![I had so much fun photographing these](/images/Mushies-32.jpg)
 ![Radiant.](/images/Mushies-34.jpg)
