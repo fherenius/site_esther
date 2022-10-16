@@ -1,0 +1,3 @@
+# Ignore hugo build
+.hugo_build.lock
+
