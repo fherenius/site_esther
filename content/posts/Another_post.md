@@ -2,6 +2,7 @@
 Title: Mushroom hunting
 date: 2022-10-16
 draft: false
+category: Mushrooms
 ---
 # Mushrooms hail the coming of the fall.
 
