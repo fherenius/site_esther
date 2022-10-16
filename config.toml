@@ -49,7 +49,7 @@ hasCJKLanguage = false
         homeTitleFontSize = 40
         # content in home top image, support Markdown
         # 主页内容，支持Markdown语法
-        homeContent = "My little zen garden"
+        homeContent = "My little garden of plants and creepy-crawlies"
         # font size(px)
         # 主页内容字号（单位：px）
         homeContentFontSize = 20
