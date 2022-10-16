@@ -93,25 +93,7 @@ hasCJKLanguage = false
         # 最新文章最大显示数量
         maxPageNewestCount = 5
 
-    # Valine comment
-    # Valine评论（详情请移步：https://valine.js.org/）
-    [params.valine]
-        # 是否开启Valine评论系统
-        enable = false
-        # appid，具体请参考：https://valine.js.org/configuration.html#appId
-        appid = 'sPMvdUAhmPSPXV6UDU5ojUn2-gzGzoHsz'
-        # appKey，具体请参考：https://valine.js.org/configuration.html#appKey
-        appkey = '8OdwR8bCYGbH8BSwOSfBzKVK'
-        # 输入框提示文字
-        placeholder = '输入你的评论'
-        # 头像，具体请参考：https://valine.js.org/avatar.html
-        avatar = 'robohash'
-        # 评论时要求的必须填写项，可选值：['nick']或['nick','mail']
-        requiredFields = ['nick']
-        # 文章访问量统计
-        visitor = true
-        # 单页最大评论数目
-        pageSize = 5
+
 
     # footer
     # 页面底部配置
