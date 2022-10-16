@@ -1,0 +1,59 @@
+{{ $langNow := .Lang }}
+{{ $includedIn := "newnewnew"  }}
+<div class="card-large">
+    <div class="card-large-img">
+
+        {{ with .Params.image }}
+                <img data-src="{{ . }}" alt='{{ i18n "imageLoadingFailed" }}' class="lazyload">
+        {{ else }}
+                <img data-src="{{ .Site.Params.page.defaultPostImg }}" alt='{{ i18n "imageLoadingFailed" }}' class="lazyload">
+        {{ end }}
+    </div>
+    <div class="card-large-content">
+        <div class="up-title"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+        <div class="up-date">
+            <span class="no-wrap"><i class="fa fa-calendar"></i> {{ i18n "postedOn" }}: {{ .PublishDate.Format "2006-1-2" }} &nbsp;</span>
+            <span class="no-wrap"><i class="fa fa-folder"></i>
+                {{ with .Params.categories }}
+                    {{ i18n "includedIn" }}:
+                    {{ range $idx, $category := . }}
+                        {{- if ne $idx 0 }}, {{ end }}
+                        <a href='{{ $langNow | relURL}}/categories/{{ $category | urlize }}'>
+                            {{ $category }}
+                        </a>
+                    {{- end }}
+                {{ else }}
+                    {{ i18n "notIncluded" }}
+                {{ end }}
+            </span>
+        </div>
+        <div class="down-summary">{{ .Summary }}</div>
+    </div>
+    <div class="card-readmore">
+        <a href="{{ .Permalink }}">
+            <span><i class="fa fa-arrow-right"></i></span>
+        </a>
+    </div>
+</div>
+
+{{ $tagsCount := 0 }}
+{{ with .Params.tags }}
+    {{ $tagsCount = 1 }}
+{{ end }}
+{{ if eq $tagsCount 1 }}
+    <div class="down-type">
+        {{ range $tag := .Params.tags }}
+        <span class="down-type-item">
+            <div class="shuxian-root">
+                <div class="shuxian"></div>
+            </div>
+            <div class="type-text">
+                <a href='{{ $langNow | relURL}}/tags/{{ $tag | urlize }}'>
+                    <i class="fa fa-tag"></i> {{ . }}
+                </a>
+            </div>
+        </span>
+        {{ end }}
+    </div>
+{{ end }}
+<div class="dang"></div>
