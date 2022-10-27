@@ -4,6 +4,8 @@ date: 2022-10-16
 draft: false
 categories:
 - Mushrooms
+- Fall
+- Insects
 ---
 # Mushrooms hail the coming of the fall.
 
