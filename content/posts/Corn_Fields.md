@@ -11,7 +11,7 @@ categories:
 
 # The world is getting ready for winter
 
-![Hello There](/images/Fieldday-7.jpg)
+![Hello There](/images/Fieldday-9.jpg)
 
 At this time of year, the trees are a blazing orange hue. 
 ![It's like the world's on fire](/images/Fieldday-2.jpg)
