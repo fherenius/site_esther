@@ -25,7 +25,7 @@ Or these adorable snowflake looking things.
 
 ![Wave](/images/Experiment-62.jpg)
 I was amazed how these bracket mushrooms followed the grain of the trees they were growing on. This is probably because the spores could get a better hold there to grow.
-![More Waves](/images/Experiment-65/jpg)
+![More Waves](/images/Experiment-65.jpg)
 
 
 
