@@ -77,7 +77,7 @@ hasCJKLanguage = false
 
         # top image in about page
         # 关于页面的顶部图
-        aboutTopImg = "/images/about.jpg"
+        aboutTopImg = "/images/Experiment-86.jpg"
         # description of about page
         # 子标题
         aboutDes = "description of about page"
